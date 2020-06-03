@@ -1,3 +1,9 @@
+//Giel Kikkert, 483040
+//Sander Lodewijk, 479038
+//Alan de Roo, 484283
+//Bryan van Vilsteren, 481060
+//Joost Reumer, 492079
+//EMT1V.B, SAXION ENSCHEDE
 
 #include "mbed.h"
 #include "platform/mbed_thread.h"
